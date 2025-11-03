@@ -1,0 +1,4 @@
+
+
+      <livewire:ai-chat/>
+     
