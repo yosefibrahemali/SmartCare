@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 
-# 🩺 Smart Care with Smart Watch
+# 🩺 Smart Care with Smart Watch | 🩺 الرعاية الذكية مع الساعة الذكية
 
 ## 📖 Overview
 **Smart Care** is an intelligent health monitoring system that integrates smartwatches with a web dashboard to track patients’ health in real-time.  
